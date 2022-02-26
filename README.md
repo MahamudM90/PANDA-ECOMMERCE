@@ -1,6 +1,6 @@
 ## PANDA-ECOMMERCE 🛒
 
-This is a Book Shop & fully functional-Ecommerce Site. 
+This is a PANDA-ECOMMERCE  & fully UI Design Of Ecommerce Site. 
 
 
 
