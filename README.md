@@ -15,7 +15,7 @@ This is The Panda-Ecommerce & Fully UI Design Of Ecommerce Site 🛍️
 
 
 
-##### Shoes Pa
+##### Shoes Pag
 ![ScreenShot of Form](screenshots/c.png)
 
 
