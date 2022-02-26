@@ -1,4 +1,4 @@
-## BOI-GHAR 📚
+## PANDA-ECOMMERCE
 
 This is a Book Shop & fully functional-Ecommerce Site. 
 
