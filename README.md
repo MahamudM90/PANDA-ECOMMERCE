@@ -20,7 +20,7 @@ This is The Panda-Ecommerce & fully UI Design Of Ecommerce Site 🛍️
 
 
 
-##### Shipping 
+##### Back-Pack
 ![ScreenShot of Form](screenshots/d.png)
 
 ##### Payment
