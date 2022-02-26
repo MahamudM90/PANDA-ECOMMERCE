@@ -1,6 +1,6 @@
 ## PANDA-ECOMMERCE 🛒
 
-This is a PANDA-ECOMMERCE  & fully UI Design Of Ecommerce Site. 
+This is a Panda-Ecommerce & fully UI Design Of Ecommerce Site. 
 
 
 
