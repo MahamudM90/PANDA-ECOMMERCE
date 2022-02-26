@@ -10,8 +10,10 @@ This is The Panda-Ecommerce & fully UI Design Of Ecommerce Site 🛍️
 
 
 
-##### Customer Reviews
+##### Categories
 ![ScreenShot of Form](screenshots/b.png)
+
+
 
 ##### CartPage
 ![ScreenShot of Form](screenshots/c.png)
