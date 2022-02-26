@@ -2,41 +2,22 @@
 
 This is a Book Shop & fully functional-Ecommerce Site. 
 
-##### HomePage
-![ScreenShot of Form](screenshorts/lol.png)
 
-##### Popular Products 
-![ScreenShot of Form](screenshorts/lala.png)
 
 ##### Footer
-![ScreenShot of Form](screenshorts/a.png)
+![ScreenShot of Form](screenshots/a.png)
 
 ##### Customer Reviews
-![ScreenShot of Form](screenshorts/b.png)
+![ScreenShot of Form](screenshots/b.png)
 
 ##### CartPage
-![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshots/c.png)
 
 ##### Shipping 
-![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshots/d.png)
 
 ##### Payment
-![ScreenShot of Form](screenshorts/e.png)
-
-##### Place Order
-![ScreenShot of Form](screenshorts/f.png)
-
-##### Order Summary
-![ScreenShot of Form](screenshorts/g.png)
-
-##### User Profile Update
-![ScreenShot of Form](screenshorts/h.png)
-##### Admin Dashboard
-![ScreenShot of Form](screenshorts/i.png)
-##### Product Update
-![ScreenShot of Form](screenshorts/j.png)
-##### User Information
-![ScreenShot of Form](screenshorts/k.png)
+![ScreenShot of Form](screenshots/e.png)
 
 
 
