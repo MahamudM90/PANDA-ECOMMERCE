@@ -4,7 +4,7 @@ This is The Panda-Ecommerce & Fully UI Design Of Ecommerce Site 🛍️
 
 
 
-##### HomePage
+##### Home Page
 ![ScreenShot of Form](screenshots/a.png)
 
 
